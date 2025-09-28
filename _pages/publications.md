@@ -10,8 +10,6 @@ A list of journal articles, conference proceedings, and newsletters.
 .me { color:#0366d6; text-decoration: underline; }
 </style>
 
-A list of journal articles, conference proceedings, and newsletters.
-
 ## Journal articles
 
 1. **The ANC of <sup>16</sup>O states from <sup>7</sup>Be + <sup>12</sup>C α-transfer reaction to study <sup>12</sup>C(α,γ)<sup>16</sup>O.**<br>
