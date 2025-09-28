@@ -1,6 +1,6 @@
 ---
 layout: single
-title: ""
+title: "Useful Nuclear Physics Resources"
 permalink: /resources/
 author_profile: true
 ---
@@ -9,7 +9,7 @@ author_profile: true
 - [NuPECC Conference List](https://www.nupecc.org)
 - [JINA-CEE Conference List](https://www.jinaweb.org)
 
-## Useful Nuclear Physics Links
+## Nuclear Physics Links
 - [NNDC](https://www.nndc.bnl.gov)
 - [TUNL Nuclear Data Project](https://nucldata.tunl.duke.edu)
 - [JINA-CEE scientific resources](https://www.jinaweb.org)
