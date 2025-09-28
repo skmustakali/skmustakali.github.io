@@ -19,3 +19,11 @@ author:
   linkedin: "sk-mustak-ali"
 #  github: "skmustakali"               # <-- change from 'academicpages'
 #  bluesky: ""                       # put your full URL or leave blank
+
+publication_category:
+  manuscripts:
+    title: "Journal Articles"
+  conferences:
+    title: "Conference Proceedings"
+  newsletters:
+    title: "Newsletters"
