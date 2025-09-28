@@ -34,7 +34,7 @@ A list of journal articles, conference proceedings, and newsletters.
 
 6. **R-matrix analysis of <sup>22</sup>Ne(α,n)<sup>25</sup>Mg and <sup>22</sup>Ne(α,γ)<sup>26</sup>Mg reactions.**<br>
    R. Santra, S. Roy, <span class="me">Sk M. Ali</span>.<br>
-   *J. Phys. G: Nucl. Part. Phys.* **52**, 025201 (2025). [link](https://iopscience.iop.org/article/10.1088/1361-6471/ad99ec)
+   *J. Phys. G: Nucl. Part. Phys.* **52**, 025201 (2025). [doi](https://iopscience.iop.org/article/10.1088/1361-6471/ad99ec)
 
 7. **New measurement of the Hoyle state radiative transition width.**<br>
    T. K. Rana, D. Pandit, S. Manna, S. Kundu, K. Banerjee, A. Sen, R. Pandey, G. Mukherjee, T. K. Ghosh, S. S. Nayak, R. Shil, P. Karmakar, K. Atreya, K. Rani, D. Paul, R. Santra, A. Sultana, S. Basu, S. Pal, S. Sadhukhan, D. Mondal, S. Mukhopadhyay, S. Bhattacharya, S. Pal, P. Pant, P. Roy, <span class="me">Sk M. Ali</span>, S. Mondal, A. De, B. Dey, R. Datta, S. Bhattacharya, C. Bhattacharya.<br>
