@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Sk Mustak Ali, Ph.D."
+title: "Hi!"
 author_profile: true
 #sidebar:
   #nav: "main"
