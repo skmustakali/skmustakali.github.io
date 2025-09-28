@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 title: "Sk Mustak Ali, Ph.D."
 author_profile: true
 sidebar:
