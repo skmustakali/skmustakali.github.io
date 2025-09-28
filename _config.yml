@@ -1,8 +1,8 @@
 # --- top section stays the same ---
 url: "https://skmustakali.github.io"
 baseurl: ""
-repository: "skmustakali/skmustakali.github.io"
-title: "Sk Mustak Ali, Ph.D."
+#repository: "skmustakali/skmustakali.github.io"
+#title: "Sk Mustak Ali, Ph.D."
 
 author:
   avatar: "/images/pic_SkMAli.jpg"     # put your photo at images/profile.jpg
