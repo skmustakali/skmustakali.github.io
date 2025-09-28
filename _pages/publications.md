@@ -4,8 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-## Selected Publications
+A list of journal articles, conference proceedings, and newsletters.
 
-- *Charge-Exchange Reactions & Supernovae*, NS3 Workshop 2024
-- *12C+12C Fusion Cross Sections*, DNP 2023
-- *The CLiP Experiment at ISOLDE*, CERN Seminar 2022
+## Journal articles
+1. The ANC of 16O states from 7Be+12C 𝛼-transfer reaction to study 12C(𝛼,𝛾)16O
+   K. Kundalia, D. Gupta, Sk M. Ali, R. Mitra, Swapan K. Saha, O. Tengblad, A. Perea, I. Martel, J. Cederkall, A.M. Moro
+   Phys. Lett. B 869, 139836 (2025)
