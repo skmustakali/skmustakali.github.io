@@ -10,8 +10,6 @@ toc_label: "Publications"
 ---
 A list of journal articles, conference proceedings, and newsletters.
 
-{% include toc.html %}
-
 <style>
 .me { color:#0366d6; text-decoration: underline; }
 </style>
