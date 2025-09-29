@@ -6,7 +6,7 @@ author_profile: true
 ---
 toc: true
 toc_sticky: true
-toc_label: "Journal Publications"   # header text for the card
+toc_label: "Publications"  
 ---
 A list of journal articles, conference proceedings, and newsletters.
 
