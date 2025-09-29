@@ -4,7 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-# RIGHT SIDEBAR (the grey card you want)
 toc: true
 toc_sticky: true
 toc_label: "Journal Publications"   # header text for the card
