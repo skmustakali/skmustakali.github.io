@@ -10,7 +10,6 @@ toc_label: "Publications"
 ---
 A list of journal articles, conference proceedings, and newsletters.
 
-### Table of contents
 <div class="toc-container" markdown="1">
 ### Table of contents
 * TOC
@@ -25,6 +24,7 @@ A list of journal articles, conference proceedings, and newsletters.
 }
 @media (max-width:1024px){ .toc-container{ float:none; width:auto; position:static; } }
 </style>
+
 
 
 <style>
