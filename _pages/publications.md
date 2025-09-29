@@ -2,30 +2,12 @@
 layout: single
 title: "Publications"
 permalink: /publications/
-author_profile: true
-classes: wide          
+author_profile: true  
 toc: true
 toc_sticky: true
 toc_label: "Publications"
 ---
 A list of journal articles, conference proceedings, and newsletters.
-
-<div class="toc-container" markdown="1">
-### Table of contents
-* TOC
-{:toc}
-</div>
-
-<style>
-.toc-container{
-  float:right; width:260px; margin:0 0 1rem 1rem; padding:0.75rem 1rem;
-  background:#f8f9fa; border:1px solid #eaeaea; border-radius:8px;
-  position:sticky; top:2rem; max-height:calc(100vh - 4rem); overflow:auto;
-}
-@media (max-width:1024px){ .toc-container{ float:none; width:auto; position:static; } }
-</style>
-
-
 
 <style>
 .me { color:#0366d6; text-decoration: underline; }
