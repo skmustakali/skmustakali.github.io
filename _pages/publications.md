@@ -75,7 +75,7 @@ A list of journal articles, conference proceedings, and newsletters.
    *APS Division Nuclear Physics Boston Meeting* **R06.007** (2024). [abstract](https://ui.adsabs.harvard.edu/abs/2024APS..DNPR06007A/abstract)
 
 1. **Proton and neutron contributions to the first 2<sup>+</sup> state of <sup>42</sup>Si via inelastic scattering.**<br>
-   L. A. Riley, …, <span class="me">Sk M. Ali</span>, …<br>
+    L. A. Riley, I. Conroy, A. M. Himmelreich, M. Heinze, J. Kosa, B. McNulty, P. D. Cottle, M. Spieker, A. Volya, A. L. Conley, D. Houlihan, B. Kelly, K. W. Kemper, <span class="me">Sk M. Ali</span>, T. Beck, S. A. Gillespie, M. Hausmann, S. Noji, J. Pereira, D. Weisshaar, J. Chung-Jung, P. Farris, A. Gade, G. Grauvogel, A. M. Hill, Z. Rahman, R. G. T. Zegers, B. Longfellow, N. D. Pathirana.<br>
    *APS Division Nuclear Physics Boston Meeting* **R02.001** (2024). [abstract](https://ui.adsabs.harvard.edu/abs/2024APS..DNPR02001A/abstract)
 
 1. **Study of <sup>7</sup>Be(d,α)<sup>5</sup>Li(pα) and <sup>7</sup>Be(d,p)<sup>8</sup>Be* (p <sup>7</sup>Li) reactions at 5 MeV/u.**<br>
