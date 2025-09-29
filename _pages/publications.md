@@ -145,19 +145,19 @@ A list of journal articles, conference proceedings, and newsletters.
 
 ## Newsletters
 
-- **Measurement of the <sup>7</sup>Be(d,<sup>3</sup>He)<sup>6</sup>Li reaction at 5 MeV/u.**<br>
+1. **Measurement of the <sup>7</sup>Be(d,<sup>3</sup>He)<sup>6</sup>Li reaction at 5 MeV/u.**<br>
   <span class="me">Sk M. Ali</span>, D. Gupta, K. Kundalia — for the IS554 collaboration.<br>
   *ISOLDE Newsletter* **35** (2023). [archive](https://isolde.web.cern.ch/isolde-newsletter-archive)
 
-- **Transfer reaction with <sup>7</sup>Be to study <sup>12</sup>C(α,γ)<sup>16</sup>O.**<br>
+2. **Transfer reaction with <sup>7</sup>Be to study <sup>12</sup>C(α,γ)<sup>16</sup>O.**<br>
   K. Kundalia, <span class="me">Sk M. Ali</span>, D. Gupta — for the IS554 collaboration.<br>
   *ISOLDE Newsletter* **43** (2022). [archive](https://isolde.web.cern.ch/isolde-newsletter-archive)
 
-- **Resonance excitations in the <sup>7</sup>Be(d,p)<sup>8</sup>Be* reaction up to 20 MeV.**<br>
+3. **Resonance excitations in the <sup>7</sup>Be(d,p)<sup>8</sup>Be* reaction up to 20 MeV.**<br>
   <span class="me">Sk M. Ali</span>, K. Kundalia, D. Gupta — for the IS554 collaboration.<br>
   *ISOLDE Newsletter* **45** (2021). [archive](https://isolde.web.cern.ch/isolde-newsletter-archive)
 
-- **Resonance excitations in the <sup>7</sup>Be + d reaction.**<br>
+4. **Resonance excitations in the <sup>7</sup>Be + d reaction.**<br>
   <span class="me">Sk M. Ali</span>, K. Kundalia, D. Gupta — for the IS554 collaboration.<br>
   *ISOLDE Newsletter* **35** (2020). [archive](https://isolde.web.cern.ch/isolde-newsletter-archive)
 
