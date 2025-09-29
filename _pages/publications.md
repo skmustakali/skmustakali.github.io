@@ -3,11 +3,14 @@ layout: single
 title: "Publications"
 permalink: /publications/
 author_profile: true
+classes: wide          
 toc: true
 toc_sticky: true
 toc_label: "Publications"
 ---
 A list of journal articles, conference proceedings, and newsletters.
+
+{% include toc.html %}
 
 <style>
 .me { color:#0366d6; text-decoration: underline; }
