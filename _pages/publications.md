@@ -16,51 +16,55 @@ A list of journal articles, conference proceedings, and newsletters.
 ## Journal articles
 
 ### 2025
-1. **The ANC of <sup>16</sup>O states from <sup>7</sup>Be + <sup>12</sup>C α-transfer reaction to study <sup>12</sup>C(α,γ)<sup>16</sup>O.**<br>
-   K. Kundalia, D. Gupta, <span class="me">Sk M. Ali</span>, R. Mitra, Swapan K. Saha, O. Tengblad, A. Perea, I. Martel, J. Cederkall, A. M. Moro.<br>
-   *Phys. Lett. B* **869**, 139836 (2025). [doi](https://doi.org/10.1016/j.physletb.2025.139836)
+1. **The <sup>7</sup>Be(d,α)<sup>5</sup>Li(pα) and <sup>7</sup>Be(d, p)<sup>8</sup>Be*(p<sup>7</sup>Li) reactions at 5 MeV/u **<br>
+   S. Samanta, D. Gupta, <span class="me">Sk M. Ali</span>, R. Mitra, K. Kundalia, S. Maity, N. Ghosh, Swapan K. Saha, O. Tengblad, A. Perea, I. Martel, J. Cederkall.<br>
+   *Nucl. Phys. A* 123249 (2025) [Link](https://doi.org/10.1016/j.nuclphysa.2025.123249)
+   
+1. **The ANC of <sup>16</sup>O states from <sup>7</sup>Be + <sup>12</sup>C α-transfer reaction to study <sup>12</sup>C(α,γ)<sup>16</sup>O **<br>
+   K. Kundalia, D. Gupta, <span class="me">Sk M. Ali</span>, R. Mitra, Swapan K. Saha, O. Tengblad, A. Perea, I. Martel, J. Cederkall, A. M. Moro <br>
+   *Phys. Lett. B* **869**, 139836 (2025) [Link](https://doi.org/10.1016/j.physletb.2025.139836)
+ 
+1. **Extraction of the non-spin- and spin-transfer isovector responses via the <sup>12</sup>C(<sup>10</sup>Be,<sup>10</sup>B+γ)<sup>12</sup>B reaction **<br>
+   <span class="me">Sk M. Ali</span>, C. Maher, R. G. T. Zegers, M. Scott, D. Bazin, M. Bowry, B. A. Brown, A. Gade, S. Galès, U. Garg, M. N. Harakeh, C. Langer, C. Loelius, C. Morse, S. Noji, T. Redpath, H. Sakai, M. Sasano, C. Sullivan, D. Weisshaar <br>
+   *Phys. Rev. C* **112**, 024602 (2025) [Link](https://doi.org/10.1103/48q9-fngt)
 
-1. **Extraction of the non-spin- and spin-transfer isovector responses via the <sup>12</sup>C(<sup>10</sup>Be,<sup>10</sup>B+γ)<sup>12</sup>B reaction.**<br>
-   <span class="me">Sk M. Ali</span>, C. Maher, R. G. T. Zegers, M. Scott, D. Bazin, M. Bowry, B. A. Brown, A. Gade, S. Galès, U. Garg, M. N. Harakeh, C. Langer, C. Loelius, C. Morse, S. Noji, T. Redpath, H. Sakai, M. Sasano, C. Sullivan, D. Weisshaar.<br>
-   *Phys. Rev. C* **112**, 024602 (2025). [doi](https://doi.org/10.1103/48q9-fngt)
+1. **Determination of proton and neutron contributions to the 0<sup>+</sup><sub>g.s.</sub> → 2<sup>+</sup><sub>1</sub> excitations in <sup>42</sup>Si and <sup>44</sup>S using inelastic proton scattering in inverse kinematics and intermediate-energy Coulomb excitation **<br>
+   L. A. Riley, I. Conroy, A. M. Himmelreich, M. Heinze, J. Kosa, B. McNulty, P. D. Cottle, M. Spieker, A. Volya, A. L. Conley, D. Houlihan, B. Kelly, K. W. Kemper, <span class="me">Sk M. Ali</span>, T. Beck, S. A. Gillespie, M. Hausmann, S. Noji, J. Pereira, D. Weisshaar, J. Chung-Jung, P. Farris, A. Gade, G. Grauvogel, A. M. Hill, Z. Rahman, R. G. T. Zegers, B. Longfellow, N. D. Pathirana <br>
+   *Phys. Rev. C* **112**, 014331 (2025) [Link](https://doi.org/10.1103/b8xj-ycqk)
 
-1. **Determination of proton and neutron contributions to the 0<sup>+</sup><sub>g.s.</sub> → 2<sup>+</sup><sub>1</sub> excitations in <sup>42</sup>Si and <sup>44</sup>S using inelastic proton scattering in inverse kinematics and intermediate-energy Coulomb excitation.**<br>
-   L. A. Riley, I. Conroy, A. M. Himmelreich, M. Heinze, J. Kosa, B. McNulty, P. D. Cottle, M. Spieker, A. Volya, A. L. Conley, D. Houlihan, B. Kelly, K. W. Kemper, <span class="me">Sk M. Ali</span>, T. Beck, S. A. Gillespie, M. Hausmann, S. Noji, J. Pereira, D. Weisshaar, J. Chung-Jung, P. Farris, A. Gade, G. Grauvogel, A. M. Hill, Z. Rahman, R. G. T. Zegers, B. Longfellow, N. D. Pathirana.<br>
-   *Phys. Rev. C* **112**, 014331 (2025). [doi](https://doi.org/10.1103/b8xj-ycqk)
-
-1. **New limits on the 3α reaction rate from R-matrix modeling.**<br>
+1. **New limits on the 3α reaction rate from R-matrix modeling **<br>
    R. Santra, <span class="me">Sk M. Ali</span>.<br>
-   *Phys. Lett. B* **867**, 139621 (2025). [doi](https://doi.org/10.1016/j.physletb.2025.139621)
+   *Phys. Lett. B* **867**, 139621 (2025) [Link](https://doi.org/10.1016/j.physletb.2025.139621)
 
-1. **Measurement of Radiative Decay Width of the Hoyle State of <sup>12</sup>C via <sup>12</sup>C(p,p′)<sup>12</sup>C Reactions.**<br>
-   T. K. Rana, D. Pandit, S. Manna, S. Kundu, K. Banerjee, A. Sen, R. Pandey, G. Mukherjee, T. K. Ghosh, S. S. Nayak, R. Shil, P. Karmakar, K. Atreya, K. Rani, D. Paul, R. Santra, A. Sultana, S. Basu, S. Pal, S. Sadhukhan, D. Mondal, S. Mukhopadhyay, S. Bhattacharya, S. Pal, P. Pant, P. Roy, <span class="me">Sk M. Ali</span>, S. Mondal, A. De, B. Dey, R. Datta, S. Bhattacharya, C. Bhattacharya.<br>
-   *Nucl. Phys. A* **1060**, 123133 (2025). [doi](https://doi.org/10.1016/j.nuclphysa.2025.123133)
+1. **Measurement of Radiative Decay Width of the Hoyle State of <sup>12</sup>C via <sup>12</sup>C(p,p′)<sup>12</sup>C Reactions **<br>
+   T. K. Rana, D. Pandit, S. Manna, S. Kundu, K. Banerjee, A. Sen, R. Pandey, G. Mukherjee, T. K. Ghosh, S. S. Nayak, R. Shil, P. Karmakar, K. Atreya, K. Rani, D. Paul, R. Santra, A. Sultana, S. Basu, S. Pal, S. Sadhukhan, D. Mondal, S. Mukhopadhyay, S. Bhattacharya, S. Pal, P. Pant, P. Roy, <span class="me">Sk M. Ali</span>, S. Mondal, A. De, B. Dey, R. Datta, S. Bhattacharya, C. Bhattacharya <br>
+   *Nucl. Phys. A* **1060**, 123133 (2025) [Link](https://doi.org/10.1016/j.nuclphysa.2025.123133)
 
-1. **R-matrix analysis of <sup>22</sup>Ne(α,n)<sup>25</sup>Mg and <sup>22</sup>Ne(α,γ)<sup>26</sup>Mg reactions.**<br>
-   R. Santra, S. Roy, <span class="me">Sk M. Ali</span>.<br>
-   *J. Phys. G: Nucl. Part. Phys.* **52**, 025201 (2025). [doi](https://iopscience.iop.org/article/10.1088/1361-6471/ad99ec)
+1. **R-matrix analysis of <sup>22</sup>Ne(α,n)<sup>25</sup>Mg and <sup>22</sup>Ne(α,γ)<sup>26</sup>Mg reactions **<br>
+   R. Santra, S. Roy, <span class="me">Sk M. Ali</span> <br>
+   *J. Phys. G: Nucl. Part. Phys.* **52**, 025201 (2025) [Link](https://iopscience.iop.org/article/10.1088/1361-6471/ad99ec)
 
 ### 2024
-1. **New measurement of the Hoyle state radiative transition width.**<br>
-   T. K. Rana, D. Pandit, S. Manna, S. Kundu, K. Banerjee, A. Sen, R. Pandey, G. Mukherjee, T. K. Ghosh, S. S. Nayak, R. Shil, P. Karmakar, K. Atreya, K. Rani, D. Paul, R. Santra, A. Sultana, S. Basu, S. Pal, S. Sadhukhan, D. Mondal, S. Mukhopadhyay, S. Bhattacharya, S. Pal, P. Pant, P. Roy, <span class="me">Sk M. Ali</span>, S. Mondal, A. De, B. Dey, R. Datta, S. Bhattacharya, C. Bhattacharya.<br>
-   *Phys. Lett. B* **859**, 139083 (2024). [doi](https://doi.org/10.1016/j.physletb.2024.139083)
+1. **New measurement of the Hoyle state radiative transition width **<br>
+   T. K. Rana, D. Pandit, S. Manna, S. Kundu, K. Banerjee, A. Sen, R. Pandey, G. Mukherjee, T. K. Ghosh, S. S. Nayak, R. Shil, P. Karmakar, K. Atreya, K. Rani, D. Paul, R. Santra, A. Sultana, S. Basu, S. Pal, S. Sadhukhan, D. Mondal, S. Mukhopadhyay, S. Bhattacharya, S. Pal, P. Pant, P. Roy, <span class="me">Sk M. Ali</span>, S. Mondal, A. De, B. Dey, R. Datta, S. Bhattacharya, C. Bhattacharya <br>
+   *Phys. Lett. B* **859**, 139083 (2024) [Link](https://doi.org/10.1016/j.physletb.2024.139083)
 
-1. **Study of the <sup>7</sup>Be(d,<sup>3</sup>He)<sup>6</sup>Li* reaction at 5 MeV/u.**<br>
-   <span class="me">Sk M. Ali</span>, D. Gupta, K. Kundalia, S. Maity, Swapan K. Saha, O. Tengblad, J. D. Ovejas, A. Perea, I. Martel, J. Cederkall, J. Park, A. M. Moro.<br>
-   *Phys. Lett. B* **853**, 138673 (2024). [doi](https://doi.org/10.1016/j.physletb.2024.138673)
+1. **Study of the <sup>7</sup>Be(d,<sup>3</sup>He)<sup>6</sup>Li* reaction at 5 MeV/u **<br>
+   <span class="me">Sk M. Ali</span>, D. Gupta, K. Kundalia, S. Maity, Swapan K. Saha, O. Tengblad, J. D. Ovejas, A. Perea, I. Martel, J. Cederkall, J. Park, A. M. Moro <br>
+   *Phys. Lett. B* **853**, 138673 (2024) [Link](https://doi.org/10.1016/j.physletb.2024.138673)
 
-1. **Reevaluation of the <sup>22</sup>Ne(p,γ)<sup>23</sup>Na reaction rate.**<br>
-   <span class="me">Sk M. Ali</span>, R. Santra, S. Sharma, A. K. Mondal.<br>
-   *Phys. Rev. C* **109**, 045809 (2024). [doi](https://doi.org/10.1103/PhysRevC.109.045809)
+1. **Reevaluation of the <sup>22</sup>Ne(p,γ)<sup>23</sup>Na reaction rate **<br>
+   <span class="me">Sk M. Ali</span>, R. Santra, S. Sharma, A. K. Mondal <br>
+   *Phys. Rev. C* **109**, 045809 (2024) [Link](https://doi.org/10.1103/PhysRevC.109.045809)
 
 ### 2022
-1. **Study of elastic and inelastic scattering of <sup>7</sup>Be + <sup>12</sup>C at 35 MeV.**<br>
-   K. Kundalia, D. Gupta, <span class="me">Sk M. Ali</span>, Swapan K. S. Saha, O. Tengblad, J. D. Ovejas, A. Perea, I. Martel, J. Cederkall, J. Park, S. Szwec.<br>
-   *Phys. Lett. B* **833**, 137294 (2022). [doi](https://doi.org/10.1016/j.physletb.2022.137294)
+1. **Study of elastic and inelastic scattering of <sup>7</sup>Be + <sup>12</sup>C at 35 MeV **<br>
+   K. Kundalia, D. Gupta, <span class="me">Sk M. Ali</span>, Swapan K. S. Saha, O. Tengblad, J. D. Ovejas, A. Perea, I. Martel, J. Cederkall, J. Park, S. Szwec <br>
+   *Phys. Lett. B* **833**, 137294 (2022) [doi](https://doi.org/10.1016/j.physletb.2022.137294)
 
-1. **Resonance Excitations in <sup>7</sup>Be(d,p)<sup>8</sup>Be* to Address the Cosmological Lithium Problem.**<br>
-   <span class="me">Sk M. Ali</span>, D. Gupta, K. Kundalia, Swapan K. Saha, O. Tengblad, J. D. Ovejas, A. Perea, I. Martel, J. Cederkall, J. Park, S. Szwec.<br>
-   *Phys. Rev. Lett.* **128**, 252701 (2022). [doi](https://doi.org/10.1103/PhysRevLett.128.252701)
+1. **Resonance Excitations in <sup>7</sup>Be(d,p)<sup>8</sup>Be* to Address the Cosmological Lithium Problem **<br>
+   <span class="me">Sk M. Ali</span>, D. Gupta, K. Kundalia, Swapan K. Saha, O. Tengblad, J. D. Ovejas, A. Perea, I. Martel, J. Cederkall, J. Park, S. Szwec <br>
+   *Phys. Rev. Lett.* **128**, 252701 (2022) [doi](https://doi.org/10.1103/PhysRevLett.128.252701)
 
 ---
 
