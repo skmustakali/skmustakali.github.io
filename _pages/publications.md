@@ -14,7 +14,7 @@ A list of journal articles, conference proceedings, and newsletters.
 </style>
 
 ## Journal articles
-
+ 
 ### 2025
 1. **The <sup>7</sup>Be(d,α)<sup>5</sup>Li(pα) and <sup>7</sup>Be(d,p)<sup>8</sup>Be* (p<sup>7</sup>Li) reactions at 5 MeV/u.**<br>
    S. Samanta, D. Gupta, <span class="me">Sk M. Ali</span>, R. Mitra, K. Kundalia, S. Maity, N. Ghosh, Swapan K. Saha, O. Tengblad, A. Perea, I. Martel, J. Cederkall.<br>
