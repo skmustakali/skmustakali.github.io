@@ -44,6 +44,15 @@ layout: default
         </header>
       {% endunless %}
 
+      {% if page.toc %}
+        <aside class="sidebar__right sticky">
+          <nav class="toc" aria-label="{{ page.toc_label | default: 'On this page' }}">
+            <header><h4 class="nav__title">{{ page.toc_label | default: 'On this page' }}</h4></header>
+            {% include toc.html html=content sanitize=true h_min=2 h_max=4 %}
+          </nav>
+        </aside>
+      {% endif %}
+
       <section class="page__content" itemprop="text">
         {{ content }}
 
