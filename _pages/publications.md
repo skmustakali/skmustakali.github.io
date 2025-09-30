@@ -60,109 +60,109 @@ A list of journal articles, conference proceedings, and newsletters.
 ### 2022
 1. **Study of elastic and inelastic scattering of <sup>7</sup>Be + <sup>12</sup>C at 35 MeV **<br>
    K. Kundalia, D. Gupta, <span class="me">Sk M. Ali</span>, Swapan K. S. Saha, O. Tengblad, J. D. Ovejas, A. Perea, I. Martel, J. Cederkall, J. Park, S. Szwec <br>
-   *Phys. Lett. B* **833**, 137294 (2022) [doi](https://doi.org/10.1016/j.physletb.2022.137294)
+   *Phys. Lett. B* **833**, 137294 (2022) [Link](https://doi.org/10.1016/j.physletb.2022.137294)
 
 1. **Resonance Excitations in <sup>7</sup>Be(d,p)<sup>8</sup>Be* to Address the Cosmological Lithium Problem **<br>
    <span class="me">Sk M. Ali</span>, D. Gupta, K. Kundalia, Swapan K. Saha, O. Tengblad, J. D. Ovejas, A. Perea, I. Martel, J. Cederkall, J. Park, S. Szwec <br>
-   *Phys. Rev. Lett.* **128**, 252701 (2022) [doi](https://doi.org/10.1103/PhysRevLett.128.252701)
+   *Phys. Rev. Lett.* **128**, 252701 (2022) [Link](https://doi.org/10.1103/PhysRevLett.128.252701)
 
 ---
 
 ## Conference Proceedings
 
 ### 2024
-1. **Constraining electron-capture rates in neutron-rich <sup>32</sup>Mg and <sup>33</sup>Al via (d,<sup>2</sup>He) charge-exchange reaction.**<br>
-   <span class="me">Sk M. Ali</span>, FRIB e21018 collaboration.<br>
-   *APS Division Nuclear Physics Boston Meeting* **R06.007** (2024). [abstract](https://ui.adsabs.harvard.edu/abs/2024APS..DNPR06007A/abstract)
+1. **Constraining electron-capture rates in neutron-rich <sup>32</sup>Mg and <sup>33</sup>Al via (d,<sup>2</sup>He) charge-exchange reaction **<br>
+   <span class="me">Sk M. Ali</span>, FRIB e21018 collaboration <br>
+   *APS Division Nuclear Physics Boston Meeting* **R06.007** (2024) [Link](https://ui.adsabs.harvard.edu/abs/2024APS..DNPR06007A/abstract)
 
-1. **Proton and neutron contributions to the first 2<sup>+</sup> state of <sup>42</sup>Si via inelastic scattering.**<br>
-    L. A. Riley, I. Conroy, A. M. Himmelreich, M. Heinze, J. Kosa, B. McNulty, P. D. Cottle, M. Spieker, A. Volya, A. L. Conley, D. Houlihan, B. Kelly, K. W. Kemper, <span class="me">Sk M. Ali</span>, T. Beck, S. A. Gillespie, M. Hausmann, S. Noji, J. Pereira, D. Weisshaar, J. Chung-Jung, P. Farris, A. Gade, G. Grauvogel, A. M. Hill, Z. Rahman, R. G. T. Zegers, B. Longfellow, N. D. Pathirana.<br>
-   *APS Division Nuclear Physics Boston Meeting* **R02.001** (2024). [abstract](https://ui.adsabs.harvard.edu/abs/2024APS..DNPR02001A/abstract)
+1. **Proton and neutron contributions to the first 2<sup>+</sup> state of <sup>42</sup>Si via inelastic scattering **<br>
+    L. A. Riley, I. Conroy, A. M. Himmelreich, M. Heinze, J. Kosa, B. McNulty, P. D. Cottle, M. Spieker, A. Volya, A. L. Conley, D. Houlihan, B. Kelly, K. W. Kemper, <span class="me">Sk M. Ali</span>, T. Beck, S. A. Gillespie, M. Hausmann, S. Noji, J. Pereira, D. Weisshaar, J. Chung-Jung, P. Farris, A. Gade, G. Grauvogel, A. M. Hill, Z. Rahman, R. G. T. Zegers, B. Longfellow, N. D. Pathirana <br>
+   *APS Division Nuclear Physics Boston Meeting* **R02.001** (2024) [Link](https://ui.adsabs.harvard.edu/abs/2024APS..DNPR02001A/abstract)
 
-1. **Study of <sup>7</sup>Be(d,α)<sup>5</sup>Li(pα) and <sup>7</sup>Be(d,p)<sup>8</sup>Be* (p <sup>7</sup>Li) reactions at 5 MeV/u.**<br>
-   S. Samanta, D. Gupta, <span class="me">Sk M. Ali</span>, R. Mitra, K. Kundalia, S. Maity, N. Ghosh, Swapan K. Saha, O. Tengblad, A. Perea, I. Martel, J. Cederkall.<br>
-   *Proc. DAE-BRNS Symp. Nucl. Phys.* **68**, 813 (2024). [proceedings](http://www.sympnp.org/proceedings/)
+1. **Study of <sup>7</sup>Be(d,α)<sup>5</sup>Li(pα) and <sup>7</sup>Be(d,p)<sup>8</sup>Be* (p <sup>7</sup>Li) reactions at 5 MeV/u **<br>
+   S. Samanta, D. Gupta, <span class="me">Sk M. Ali</span>, R. Mitra, K. Kundalia, S. Maity, N. Ghosh, Swapan K. Saha, O. Tengblad, A. Perea, I. Martel, J. Cederkall <br>
+   *Proc. DAE-BRNS Symp. Nucl. Phys.* **68**, 813 (2024) [Link](http://www.sympnp.org/proceedings/)
 
-1. **Neutron and α-transfer reaction <sup>12</sup>C(<sup>7</sup>Be,<sup>8</sup>Be)<sup>11</sup>C* at 5 MeV/u.**<br>
-   N. Ghosh, D. Gupta, S. Samanta, R. Mitra, K. Kundalia, <span class="me">Sk M. Ali</span>, S. Maity, Swapan K. Saha, O. Tengblad, A. Perea, I. Martel, J. Cederkall.<br>
-   *Proc. DAE-BRNS Symp. Nucl. Phys.* **68**, 383 (2024). [proceedings](http://www.sympnp.org/proceedings/)
+1. **Neutron and α-transfer reaction <sup>12</sup>C(<sup>7</sup>Be,<sup>8</sup>Be)<sup>11</sup>C* at 5 MeV/u **<br>
+   N. Ghosh, D. Gupta, S. Samanta, R. Mitra, K. Kundalia, <span class="me">Sk M. Ali</span>, S. Maity, Swapan K. Saha, O. Tengblad, A. Perea, I. Martel, J. Cederkall <br>
+   *Proc. DAE-BRNS Symp. Nucl. Phys.* **68**, 383 (2024) [Link](http://www.sympnp.org/proceedings/)
 
-1. **Breakup reactions from <sup>7</sup>Be + <sup>12</sup>C at 5 MeV/u.**<br>
-   R. Mitra, D. Gupta, S. Maity, S. Samanta, K. Kundalia, <span class="me">Sk M. Ali</span>, Swapan K. S. Saha, O. Tengblad, A. Perea, I. Martel, J. Cederkall.<br>
-   *EPJ Web Conf.* **297**, 02005 (2024). [doi](https://doi.org/10.1051/epjconf/202429702005)
+1. **Breakup reactions from <sup>7</sup>Be + <sup>12</sup>C at 5 MeV/u **<br>
+   R. Mitra, D. Gupta, S. Maity, S. Samanta, K. Kundalia, <span class="me">Sk M. Ali</span>, Swapan K. S. Saha, O. Tengblad, A. Perea, I. Martel, J. Cederkall <br>
+   *EPJ Web Conf.* **297**, 02005 (2024) [Link](https://doi.org/10.1051/epjconf/202429702005)
 
-1. **Pixel Calibration of Double-Sided Silicon Strip Detectors.**<br>
-   R. Mitra, D. Gupta, N. Ghosh, S. Samanta, K. Kundalia, <span class="me">Sk M. Ali</span>, S. Maity, Swapan K. S. Saha.<br>
-   *Proc. DAE-BRNS Symp. Nucl. Phys.* **68**, 1175 (2024). [proceedings](http://www.sympnp.org/proceedings/)
+1. **Pixel Calibration of Double-Sided Silicon Strip Detectors **<br>
+   R. Mitra, D. Gupta, N. Ghosh, S. Samanta, K. Kundalia, <span class="me">Sk M. Ali</span>, S. Maity, Swapan K. S. Saha <br>
+   *Proc. DAE-BRNS Symp. Nucl. Phys.* **68**, 1175 (2024) [Link](http://www.sympnp.org/proceedings/)
 
 ### 2023
-1. **Breakup of <sup>7</sup>Be on <sup>12</sup>C at 5 MeV/u.**<br>
-   R. Mitra, D. Gupta, S. Maity, K. Kundalia, <span class="me">Sk M. Ali</span>, Swapan K. S. Saha, O. Tengblad, A. Perea, I. Martel, J. Cederkall, A. M. Moro.<br>
-   *Proc. DAE-BRNS Symp. Nucl. Phys.* **67**, 379 (2023). [proceedings](http://www.sympnp.org/proceedings/)
+1. **Breakup of <sup>7</sup>Be on <sup>12</sup>C at 5 MeV/u **<br>
+   R. Mitra, D. Gupta, S. Maity, K. Kundalia, <span class="me">Sk M. Ali</span>, Swapan K. S. Saha, O. Tengblad, A. Perea, I. Martel, J. Cederkall, A. M. Moro <br>
+   *Proc. DAE-BRNS Symp. Nucl. Phys.* **67**, 379 (2023) [Link](http://www.sympnp.org/proceedings/)
 
 ### 2022
-1. **Measurement of the <sup>7</sup>Be(d,<sup>3</sup>He)<sup>6</sup>Li reaction and the Cosmological Lithium Problem.**<br>
-   <span class="me">Sk M. Ali</span>, D. Gupta, K. Kundalia, Swapan K. S. Saha, O. Tengblad, J. D. Ovejas, A. Perea, I. Martel, J. Cederkall, J. Park, A. M. Moro.<br>
-   *Proc. DAE-BRNS Symp. Nucl. Phys.* **66**, 726 (2022). [proceedings](http://www.sympnp.org/proceedings/)
+1. **Measurement of the <sup>7</sup>Be(d,<sup>3</sup>He)<sup>6</sup>Li reaction and the Cosmological Lithium Problem **<br>
+   <span class="me">Sk M. Ali</span>, D. Gupta, K. Kundalia, Swapan K. S. Saha, O. Tengblad, J. D. Ovejas, A. Perea, I. Martel, J. Cederkall, J. Park, A. M. Moro <br>
+   *Proc. DAE-BRNS Symp. Nucl. Phys.* **66**, 726 (2022) [Link](http://www.sympnp.org/proceedings/)
 
-1. **The <sup>7</sup>Be + <sup>12</sup>C reaction to study the <sup>15</sup>O nucleus.**<br>
-   K. Kundalia, D. Gupta, <span class="me">Sk M. Ali</span>, S. Maity, Swapan K. Saha, O. Tengblad, J. D. Ovejas, A. Perea, I. Martel, J. Cederkall, J. Park.<br>
-   *Proc. DAE Symp. Nucl. Phys.* **66**, 703 (2022). [proceedings](http://www.sympnp.org/proceedings/)
+1. **The <sup>7</sup>Be + <sup>12</sup>C reaction to study the <sup>15</sup>O nucleus **<br>
+   K. Kundalia, D. Gupta, <span class="me">Sk M. Ali</span>, S. Maity, Swapan K. Saha, O. Tengblad, J. D. Ovejas, A. Perea, I. Martel, J. Cederkall, J. Park <br>
+   *Proc. DAE Symp. Nucl. Phys.* **66**, 703 (2022) [Link](http://www.sympnp.org/proceedings/)
 
-1. **Breakup of deuteron from <sup>7</sup>Be + d reaction at 5 MeV/u.**<br>
-   S. Maity, D. Gupta, <span class="me">Sk M. Ali</span>, K. Kundalia, Swapan K. Saha, O. Tengblad, J. D. Ovejas, A. Perea, I. Martel, J. Cederkall, J. Park.<br>
-   *Proc. DAE-BRNS Symp. Nucl. Phys.* **66**, 379 (2022). [proceedings](http://www.sympnp.org/proceedings/)
+1. **Breakup of deuteron from <sup>7</sup>Be + d reaction at 5 MeV/u **<br>
+   S. Maity, D. Gupta, <span class="me">Sk M. Ali</span>, K. Kundalia, Swapan K. Saha, O. Tengblad, J. D. Ovejas, A. Perea, I. Martel, J. Cederkall, J. Park <br>
+   *Proc. DAE-BRNS Symp. Nucl. Phys.* **66**, 379 (2022) [Link](http://www.sympnp.org/proceedings/)
 
 ### 2021
-1. **Measurement of the <sup>7</sup>Be(d,p)<sup>8</sup>Be* reaction at 5 MeV/A at HIE-ISOLDE, CERN.**<br>
-   <span class="me">Sk M. Ali</span>, D. Gupta, K. Kundalia, Swapan K. Saha, O. Tengblad, J. D. Ovejas, A. Perea, I. Martel, J. Cederkall, J. Park, S. Szwec.<br>
-   *Proc. DAE-BRNS Symp. Nucl. Phys.* **65**, 486 (2021). [proceedings](http://www.sympnp.org/proceedings/)
+1. **Measurement of the <sup>7</sup>Be(d,p)<sup>8</sup>Be* reaction at 5 MeV/A at HIE-ISOLDE, CERN **<br>
+   <span class="me">Sk M. Ali</span>, D. Gupta, K. Kundalia, Swapan K. Saha, O. Tengblad, J. D. Ovejas, A. Perea, I. Martel, J. Cederkall, J. Park, S. Szwec <br>
+   *Proc. DAE-BRNS Symp. Nucl. Phys.* **65**, 486 (2021) [Link](http://www.sympnp.org/proceedings/)
 
-1. **Study of <sup>7</sup>Be + p elastic scattering at 5 MeV/A.**<br>
-   <span class="me">Sk M. Ali</span>, D. Gupta, K. Kundalia, Swapan K. Saha, O. Tengblad, J. D. Ovejas, A. Perea, I. Martel, J. Cederkall, J. Park, S. Szwec.<br>
-   *Proc. DAE-BRNS Symp. Nucl. Phys.* **65**, 309 (2021). [proceedings](http://www.sympnp.org/proceedings/)
+1. **Study of <sup>7</sup>Be + p elastic scattering at 5 MeV/A **<br>
+   <span class="me">Sk M. Ali</span>, D. Gupta, K. Kundalia, Swapan K. Saha, O. Tengblad, J. D. Ovejas, A. Perea, I. Martel, J. Cederkall, J. Park, S. Szwec <br>
+   *Proc. DAE-BRNS Symp. Nucl. Phys.* **65**, 309 (2021) [Link](http://www.sympnp.org/proceedings/)
 
-1. **Study of α-cluster transfer reaction with <sup>7</sup>Be in the context of He-burning process.**<br>
-   K. Kundalia, D. Gupta, <span class="me">Sk M. Ali</span>, Swapan K. Saha, O. Tengblad, J. D. Ovejas, A. Perea, I. Martel, J. Cederkall, J. Park, S. Szwec.<br>
-   *Proc. DAE-BRNS Symp. Nucl. Phys.* **65**, 488 (2021). [proceedings](http://www.sympnp.org/proceedings/)
+1. **Study of α-cluster transfer reaction with <sup>7</sup>Be in the context of He-burning process **<br>
+   K. Kundalia, D. Gupta, <span class="me">Sk M. Ali</span>, Swapan K. Saha, O. Tengblad, J. D. Ovejas, A. Perea, I. Martel, J. Cederkall, J. Park, S. Szwec <br>
+   *Proc. DAE-BRNS Symp. Nucl. Phys.* **65**, 488 (2021) [Link](http://www.sympnp.org/proceedings/)
 
-1. **Elastic and inelastic scattering of <sup>7</sup>Be on <sup>12</sup>C at 5 MeV/A.**<br>
-   K. Kundalia, D. Gupta, <span class="me">Sk M. Ali</span>, Swapan K. Saha, O. Tengblad, J. D. Ovejas, A. Perea, I. Martel, J. Cederkall, J. Park, S. Szwec.<br>
-   *Proc. DAE-BRNS Symp. Nucl. Phys.* **65**, 449 (2021). [proceedings](http://www.sympnp.org/proceedings/)
+1. **Elastic and inelastic scattering of <sup>7</sup>Be on <sup>12</sup>C at 5 MeV/A **<br>
+   K. Kundalia, D. Gupta, <span class="me">Sk M. Ali</span>, Swapan K. Saha, O. Tengblad, J. D. Ovejas, A. Perea, I. Martel, J. Cederkall, J. Park, S. Szwec <br>
+   *Proc. DAE-BRNS Symp. Nucl. Phys.* **65**, 449 (2021) [Link](http://www.sympnp.org/proceedings/)
 
-1. **Comparison of different calibration methods for Si-strip detectors.**<br>
-   K. Kundalia, D. Gupta, <span class="me">Sk M. Ali</span>, Swapan K. Saha, O. Tengblad, J. D. Ovejas, A. Perea, I. Martel, J. Cederkall, J. Park, S. Szwec.<br>
-   *Proc. DAE-BRNS Symp. Nucl. Phys.* **65**, 840 (2021). [proceedings](http://www.sympnp.org/proceedings/)
+1. **Comparison of different calibration methods for Si-strip detectors **<br>
+   K. Kundalia, D. Gupta, <span class="me">Sk M. Ali</span>, Swapan K. Saha, O. Tengblad, J. D. Ovejas, A. Perea, I. Martel, J. Cederkall, J. Park, S. Szwec <br>
+   *Proc. DAE-BRNS Symp. Nucl. Phys.* **65**, 840 (2021) [Link](http://www.sympnp.org/proceedings/)
 
 ### 2019
-1. **Resonance excitations in the <sup>7</sup>Be + d experiment at CERN–ISOLDE.**<br>
-   <span class="me">Sk M. Ali</span>, D. Gupta, K. Kundalia, Swapan K. Saha, O. Tengblad, J. D. Ovejas, A. Perea, I. Martel, J. Cederkall, J. Park, S. Szwec.<br>
-   *Proc. DAE-BRNS Symp. Nucl. Phys.* **64**, 570 (2019). [proceedings](http://www.sympnp.org/proceedings/)
+1. **Resonance excitations in the <sup>7</sup>Be + d experiment at CERN–ISOLDE **<br>
+   <span class="me">Sk M. Ali</span>, D. Gupta, K. Kundalia, Swapan K. Saha, O. Tengblad, J. D. Ovejas, A. Perea, I. Martel, J. Cederkall, J. Park, S. Szwec <br>
+   *Proc. DAE-BRNS Symp. Nucl. Phys.* **64**, 570 (2019) [Link](http://www.sympnp.org/proceedings/)
 
-1. **Study of α-cluster transfer reaction with <sup>7</sup>Be.**<br>
-   K. Kundalia, D. Gupta, <span class="me">Sk M. Ali</span>, Swapan K. Saha, O. Tengblad, J. D. Ovejas, A. Perea, I. Martel, J. Cederkall, J. Park, S. Szwec.<br>
-   *Proc. DAE-BRNS Symp. Nucl. Phys.* **64**, 582 (2019). [proceedings](http://www.sympnp.org/proceedings/)
+1. **Study of α-cluster transfer reaction with <sup>7</sup>Be **<br>
+   K. Kundalia, D. Gupta, <span class="me">Sk M. Ali</span>, Swapan K. Saha, O. Tengblad, J. D. Ovejas, A. Perea, I. Martel, J. Cederkall, J. Park, S. Szwec <br>
+   *Proc. DAE-BRNS Symp. Nucl. Phys.* **64**, 582 (2019) [Link](http://www.sympnp.org/proceedings/)
 
-1. **NPTool simulations for <sup>7</sup>Be + d experiment at CERN–ISOLDE.**<br>
-   <span class="me">Sk M. Ali</span>, D. Gupta, K. Kundalia, Swapan K. S. Saha, O. Tengblad, J. D. Ovejas, A. Perea, I. Martel, J. Cederkall, J. Park, S. Szwec.<br>
-   *Proc. DAE-BRNS Symp. Nucl. Phys.* **64**, 892 (2019). [proceedings](http://www.sympnp.org/proceedings/)
+1. **NPTool simulations for <sup>7</sup>Be + d experiment at CERN–ISOLDE **<br>
+   <span class="me">Sk M. Ali</span>, D. Gupta, K. Kundalia, Swapan K. S. Saha, O. Tengblad, J. D. Ovejas, A. Perea, I. Martel, J. Cederkall, J. Park, S. Szwec <br>
+   *Proc. DAE-BRNS Symp. Nucl. Phys.* **64**, 892 (2019) [Link](http://www.sympnp.org/proceedings/)
 
 ---
 
 ## Newsletters
 
-1. **Measurement of the <sup>7</sup>Be(d,<sup>3</sup>He)<sup>6</sup>Li reaction at 5 MeV/u.**<br>
-   <span class="me">Sk M. Ali</span>, D. Gupta, K. Kundalia — for the IS554 collaboration.<br>
-   *ISOLDE Newsletter* **35** (2023). [archive](https://isolde.web.cern.ch/isolde-newsletter-archive)
+1. **Measurement of the <sup>7</sup>Be(d,<sup>3</sup>He)<sup>6</sup>Li reaction at 5 MeV/u **<br>
+   <span class="me">Sk M. Ali</span>, D. Gupta, K. Kundalia — for the IS554 collaboration <br>
+   *ISOLDE Newsletter* **35** (2023) [Link](https://isolde.web.cern.ch/isolde-newsletter-archive)
 
-1. **Transfer reaction with <sup>7</sup>Be to study <sup>12</sup>C(α,γ)<sup>16</sup>O.**<br>
-   K. Kundalia, <span class="me">Sk M. Ali</span>, D. Gupta — for the IS554 collaboration.<br>
-   *ISOLDE Newsletter* **43** (2022). [archive](https://isolde.web.cern.ch/isolde-newsletter-archive)
+1. **Transfer reaction with <sup>7</sup>Be to study <sup>12</sup>C(α,γ)<sup>16</sup>O **<br>
+   K. Kundalia, <span class="me">Sk M. Ali</span>, D. Gupta — for the IS554 collaboration <br>
+   *ISOLDE Newsletter* **43** (2022) [Link](https://isolde.web.cern.ch/isolde-newsletter-archive)
 
-1. **Resonance excitations in the <sup>7</sup>Be(d,p)<sup>8</sup>Be* reaction up to 20 MeV.**<br>
+1. **Resonance excitations in the <sup>7</sup>Be(d,p)<sup>8</sup>Be* reaction up to 20 MeV **<br>
+   <span class="me">Sk M. Ali</span>, K. Kundalia, D. Gupta — for the IS554 collaboration <br>
+   *ISOLDE Newsletter* **45** (2021) [Link](https://isolde.web.cern.ch/isolde-newsletter-archive)
+
+1. **Resonance excitations in the <sup>7</sup>Be + d reaction **<br>
    <span class="me">Sk M. Ali</span>, K. Kundalia, D. Gupta — for the IS554 collaboration.<br>
-   *ISOLDE Newsletter* **45** (2021). [archive](https://isolde.web.cern.ch/isolde-newsletter-archive)
-
-1. **Resonance excitations in the <sup>7</sup>Be + d reaction.**<br>
-   <span class="me">Sk M. Ali</span>, K. Kundalia, D. Gupta — for the IS554 collaboration.<br>
-   *ISOLDE Newsletter* **35** (2020). [archive](https://isolde.web.cern.ch/isolde-newsletter-archive)
+   *ISOLDE Newsletter* **35** (2020) [Link](https://isolde.web.cern.ch/isolde-newsletter-archive)
