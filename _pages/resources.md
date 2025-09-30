@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "Useful Nuclear Physics Resources"
+title: "Nuclear Physics Resources"
 permalink: /resources/
 author_profile: true
 ---
 
-## Upcoming Nuclear Physics Conferences
+## Nuclear Physics Conferences
 - [NuPECC Conference List](https://www.nupecc.org)
 - [JINA-CEE Conference List](https://www.jinaweb.org)
 
